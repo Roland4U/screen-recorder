@@ -47,7 +47,7 @@
     "first-run": "^2.0.0",
     "got": "^9.6.0",
     "insight": "^0.10.3",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "mac-open-with": "^1.2.3",
     "mac-screen-capture-permissions": "^1.1.0",
     "mac-windows": "^0.7.1",
